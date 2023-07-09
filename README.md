@@ -1,5 +1,3 @@
-# practicing-sql-with-jupyter-notebook
-Praticando SQL com bibliotecas Python no Jupyter Notebook. 
 
  # Análise Epidemiológica de Febre Amarela 
  O projeto teve como objetivo demonstrar habilidades utilizando as ferramentas de SQLite, bibliotecas Python e a capacidade de extrair informações a partir de dados reais. Além de analisarmos
