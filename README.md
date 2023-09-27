@@ -1,8 +1,6 @@
 
  # Análise Epidemiológica de Febre Amarela 
- O projeto teve como objetivo demonstrar habilidades utilizando as ferramentas de SQLite, bibliotecas Python e a capacidade de extrair informações a partir de dados reais. Além de analisarmos
-que a  importância de analisarmos a correlação do aumento dos casos em macacos e humanos não se deve pela transmissão de um para o outro (o que não existe) e sim porque os 
-macacos são grandes sentinelas para alerta de regiões onde o vírus da Febre Amarela está circulando. 
+ O projeto teve como objetivo demonstrar habilidades utilizando as ferramentas de SQLite, bibliotecas Python e a capacidade de extrair informações a partir de dados reais. 
 
 ## 🎯 Conclusão
 A importância de analisarmos a correlação do aumento dos casos em macacos e humanos não se deve pela transmissão de uma para o outro (que não existe) e sim porque os macacos são grandes sentinelas para alerta de regiões onde o vírus da Febre Amarela está circulando.
